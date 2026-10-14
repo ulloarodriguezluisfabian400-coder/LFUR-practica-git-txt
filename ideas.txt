@@ -1,1 +1,2 @@
 Ideas para el proyecto:
+1. Practicar commits con mensajes claros
