@@ -1,1 +1,4 @@
 Lista de tareas:
+1. Estudiar Git
+2. Hacer la tarea
+3. Subir cambios a GitHub
