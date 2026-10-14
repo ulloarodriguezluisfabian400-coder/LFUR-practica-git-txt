@@ -2,3 +2,5 @@ Lista de tareas:
 1. Estudiar Git
 2. Hacer la tarea
 3. Subir cambios a GitHub
+4. Revisar el historial
+4. Revisar el historial
